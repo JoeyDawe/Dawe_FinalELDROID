@@ -1,0 +1,13 @@
+<resources>
+    <string name="habit_streaks_template">%s</string>
+    <string name="performance_template">%f</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="update_progress">Update Progress</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="progress">Progress</string>
+    <string name="timing_e_g_morning">Timing (e.g., morning)</string>
+    <string name="frequency_e_g_daily">Frequency (e.g., daily)</string>
+    <string name="habit_description">Habit Description</string>
+    <string name="app_name">Daily Habit Tracker</string>
+
+</resources>
